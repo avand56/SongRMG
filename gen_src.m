@@ -9,7 +9,7 @@ rup.outfl = ['rup_' rup.name '.mat'];
 rup.target_Mw   = 6.6;
 rup.target_Mo = fMw2MoN(rup.target_Mw);  % Nm
 
-rup.num = 5;         % number of simulation
+rup.num = 1;         % number of simulation
 
 rup.seed.seed = 1999;
 rup.seed.hypo = 1999;
