@@ -27,6 +27,6 @@ rup = gen_stats(rup);
 rup = gen_rup(rup);
 
 % generate srf files
-%gen_srf(rup);
+gen_srf(rup);
 
 
